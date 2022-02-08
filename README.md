@@ -10,6 +10,10 @@ In this project, you can enjoy:
 - CSPDarkNet-Tiny
 - CSPDarkNet-Nano
 
+# Requirements
+- Torch >= 1.9.1
+
+# Motivation
 As far as I know, it is difficult for many researchers to train YOLOv5 or YOLOX from scratch because they, including me, do not have sufficient computing resources. Therefore, a pre-trained backbone is still important. 
 
 In addition, since YOLOv5 and YOLOX are excellent object detectors, their backbones theoretically perform better than imagenet pretrained weights. 
